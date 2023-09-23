@@ -5,13 +5,14 @@
 - ᴄʀᴇᴀᴛᴇ ᴀ ɴᴇᴡ ꜰᴏʟᴅᴇʀ ᴏɴ ʏᴏᴜʀ ᴅᴇsᴋᴛᴏᴘ ᴀɴᴅ ᴛʀᴀɴsꜰᴇʀ ᴛʜᴇ ᴅᴏᴡɴʟᴏᴀᴅᴇᴅ ꜰɪʟᴇs ᴛʜᴇʀᴇ.
 - ᴏᴘᴇɴ ".exe" ᴀs ᴀɴ ᴀᴅᴍɪɴɪsᴛʀᴀᴛᴏʀ.
 - ʏᴏᴜ ᴡɪʟʟ sᴛᴀʀᴛ ᴜᴘ ᴀ ᴘᴀɴᴇʟ ʟɪᴋᴇ ᴛʜᴇ ᴏɴᴇ ɪ ʜᴀᴠᴇ ɪɴ ᴛʜᴇ sᴄʀᴇᴇɴsʜᴏᴛ.
+- DISABLE VPN SERVICE !!!....
 
 - ᴛʜᴀɴᴋ ʏᴏᴜ!
 
 ### MEDIA 
-![FORTNITE SCREEN 1](https://github.com/geving111/TEST/assets/124738347/0bd99447-066d-41d1-86f5-48125b666c33)
-![FORTNITE SCREEN 2](https://github.com/geving111/TEST/assets/124738347/5e3e45f4-a83b-4518-9353-473345f17990)
 
+![FORT SPOF 2](https://github.com/AxossScripter/FORTNITE/assets/69582259/f7bb6c77-c2b7-46a4-bd37-17e2d2648659)
+![FORT SPOF ](https://github.com/AxossScripter/FORTNITE/assets/69582259/e8354890-94da-45c0-8e0b-d4484609944a)
 
 
 ### sʏsᴛᴇᴍ ʀᴇǫᴜɪʀᴇᴍᴇɴᴛs:
@@ -27,35 +28,20 @@ sʏsᴛᴇᴍ: 32, 64 ʙɪᴛ
 - ʟᴀᴛᴇsᴛ ᴠᴇʀsɪᴏɴ ꜰᴏʀ ᴘᴄ [ᴇᴘɪᴄ ɢᴀᴍᴇs ʟᴀᴜɴᴄʜᴇʀ]
 
 ### ꜰᴜɴᴄᴛɪᴏɴᴀʟ
-![coursed](https://github.com/geving111/TEST/assets/124738347/025f0bca-1d23-4533-bc97-76d8a9ea3608)
+![coursed](https://github.com/geving111/TEST/assets/124738347/8bdee7da-e511-43e2-86ad-14cee8a9d51c)
 
+# ESP
+- Grenade ESP
+- Vehicle ESP
+- Player ESP
+- Health
+- Distance
+- Nickname
+- Skeleton
 
-
-# ᴀɪᴍ
-
-- ᴡᴇᴀᴘᴏɴ ᴄʜᴇᴄᴋ - ᴅɪsᴀʙʟᴇs ᴀɪᴍ ᴅᴜʀɪɴɢ ᴄᴏɴsᴛʀᴜᴄᴛɪᴏɴ ᴏʀ ᴡɪᴛʜ ᴀ ᴘɪᴄᴋᴀxᴇ ɪɴ ʜᴀɴᴅ
-- ᴠɪsɪʙʟᴇ ᴄʜᴇᴄᴋ - ᴄʜᴇᴄᴋ ᴠɪsɪʙɪʟɪᴛʏ
-- ᴀɪᴍ sᴍᴏᴏᴛʜ - sᴍᴏᴏᴛʜɴᴇss
-- ᴅʀᴀᴡꜰᴏᴠ - ᴅʀᴀᴡ ᴛʜᴇ ʀᴀɴɢᴇ ᴏꜰ ᴛʜᴇ ᴀɪᴍ
-- ᴀɪᴍ ꜰᴏᴠ - ʀᴀɴɢᴇ ᴏꜰ ᴀᴄᴛɪᴏɴ
-- ꜰᴏᴠ ᴄᴏʟᴏʀ - ᴛʜᴇ ᴄᴏʟᴏʀ ᴏꜰ ᴛʜᴇ ᴄɪʀᴄʟᴇ ʀᴀᴅɪᴜs
-- ᴄʜᴏᴏsᴇ ᴛᴀʀɢᴇᴛ - ᴛʏᴘᴇ ᴏꜰ ᴛᴀʀɢᴇᴛ sᴇʟᴇᴄᴛɪᴏɴ
-
-# ᴇsᴘ
-
-- ʙᴏx ᴇsᴘ - ʙᴏxᴇs
-- ʙᴏx ᴄᴏʟᴏʀ - ᴄᴏʟᴏʀ ᴏꜰ ʙᴏxᴇs
-- ᴅɪsᴛᴀɴᴄᴇ ᴇsᴘ - ᴅɪsᴛᴀɴᴄᴇ ᴛᴏ ᴇɴᴇᴍʏ
-- ᴅɪsᴛᴀɴᴄᴇ ᴄᴏʟᴏʀ - ᴛᴇxᴛ
-- ᴄᴏʟᴏʀ sɴᴀᴘʟɪɴᴇ ᴇsᴘ - ʟɪɴᴇs ᴛᴏ ᴇɴᴇᴍɪᴇs
-- sɴᴀᴘʟɪɴᴇ ꜰʀᴏᴍ - ʙᴇɢɪɴɴɪɴɢ ᴏꜰ ʟɪɴᴇ
-- sɴᴀᴘʟɪɴᴇ ᴛᴏ - ᴇɴᴅ ᴏꜰ ʟɪɴᴇ
-- sɴᴀᴘʟɪɴᴇ ᴄᴏʟᴏʀ - ʟɪɴᴇ ᴄᴏʟᴏʀ
-
-# ᴍɪsᴄ
-
-- ʟᴏɢɢᴇʀ - ᴄʜᴇᴀᴛ ʟᴏɢs
-- ᴡᴀᴛᴇʀᴍᴀʀᴋ - ᴄʜᴇᴀᴛ ʟᴏɢᴏ
-- ᴏʙs ʙʏᴘᴀss - ʜɪᴅᴇ ᴛʜᴇ ᴄʜᴇᴀᴛ ᴡɪɴᴅᴏᴡ ꜰʀᴏᴍ ᴏʙs
-
-<sub>ʟᴀsᴛ ᴜᴘᴅᴀᴛᴇ 18.09.2023</sub>
+# AIM
+- Aimbot
+- Silent Aimbot
+- 2D Box
+- FOV
+- Distance aimbot
