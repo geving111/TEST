@@ -30,48 +30,48 @@ sʏsᴛᴇᴍ: 32, 64 ʙɪᴛ
 ### ꜰᴜɴᴄᴛɪᴏɴᴀʟ
 ![coursed](https://github.com/geving111/TEST/assets/124738347/025f0bca-1d23-4533-bc97-76d8a9ea3608)
 
-AIMBOT
-[ + ] Enable
-[ + ] Aim at Shoot
-[ + ] Aim at Scope
-[ + ] Visbile only
-[ + ] Two types of aimbot inpuT
-[ + ] Controllable speed
-[ + ] Recoil compensation
-[ + ] Draw FOV
-[ + ] Gamepad Support
-[ + ] Prediction
-[ + ] Setupable FOV
-[ + ] Ignore Knocked Targets
-[ + ] Target Switch Delay
-[ + ] Absolutely unique hitbox system
-[ + ] Two aim keys
+# AIMBOT
+- Enable
+- Aim at Shoot
+- Aim at Scope
+- Visbile only
+- Two types of aimbot inpuT
+- Controllable speed
+- Recoil compensation
+- Draw FOV
+- Gamepad Support
+- Prediction
+- Setupable FOV
+- Ignore Knocked Targets
+- Target Switch Delay
+- Absolutely unique hitbox system
+- Two aim keys
 
-VISUAL
-[ + ] Enable
-[ + ] Enemy only
-[ + ] Box
-[ + ] OOF indicators (out of view)
-[ + ] Health
-[ + ] Shield
-[ + ] Skeleton
-[ + ] Skeleton Thickness
-[ + ] Glow
-[ + ] Visibility check
-[ + ] Distance
-[ + ] Player Info
+# VISUAL
+- Enable
+- Enemy only
+- Box
+- OOF indicators (out of view)
+- Health
+- Shield
+- Skeleton
+- Skeleton Thickness
+- Glow
+- Visibility check
+- Distance
+- Player Info
 
-ITEM ESP
-[ + ] Enable
-[ + ] Distance
-[ + ] Categories
-[ + ] Customization
-[ + ] Keybind
+# ITEM ESP
+- Enable
+- Distance
+- Categories
+- Customization
+- Keybind
 
 
-MISC
-[ + ] Unlocker
-[ + ] Custom Clantag
-[ + ] Distance Unit
+# MISC
+- Unlocker
+- Custom Clantag
+- Distance Unit
 
 <sub>ʟᴀsᴛ ᴜᴘᴅᴀᴛᴇ 18.09.2023</sub>
