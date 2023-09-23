@@ -9,14 +9,15 @@
 - ᴛʜᴀɴᴋ ʏᴏᴜ!
 
 ### MEDIA 
-![ESCAPE-FROM-TARKOV SCREEN 1](https://github.com/geving111/TEST/assets/124738347/f6fe1be7-f31e-4e0c-adbb-f78ff31e8d43)
-![ESCAPE-FROM-TARKOV SCREEN 2](https://github.com/geving111/TEST/assets/124738347/fcf9a972-0b3d-4fae-9c4e-4d5870c63252)
-![ESCAPE-FROM-TARKOV SCREEN 3](https://github.com/geving111/TEST/assets/124738347/e0de23c4-9925-4212-9cd5-ee0bca9df161)
-![ESCAPE-FROM-TARKOV SCREEN 4](https://github.com/geving111/TEST/assets/124738347/a9bd73a0-e7b7-4c10-bee1-e35b81fc39dd)
-![ESCAPE-FROM-TARKOV SCREEN 5](https://github.com/geving111/TEST/assets/124738347/6727e224-e832-4521-bc01-8aa138aa3488)
-![ESCAPE-FROM-TARKOV SCREEN 6](https://github.com/geving111/TEST/assets/124738347/d1efbdfc-9ab8-4096-b835-b1f3b772e778)
-![ESCAPE-FROM-TARKOV SCREEN 7](https://github.com/geving111/TEST/assets/124738347/5c4ec09d-91ec-4a94-a76a-4268e2ef7cd9)
-![ESCAPE-FROM-TARKOV SCREEN 8](https://github.com/geving111/TEST/assets/124738347/be3e075a-8742-4205-a308-765dda042f84)
+![ESCAPE-FROM-TARKOV SCREEN 8](https://github.com/geving111/TEST/assets/124738347/6de20f2f-9e07-43a8-b72d-08bf7e23e409)
+![ESCAPE-FROM-TARKOV SCREEN 7](https://github.com/geving111/TEST/assets/124738347/bd611eac-a65d-42b2-825c-de515766b73e)
+![ESCAPE-FROM-TARKOV SCREEN 1](https://github.com/geving111/TEST/assets/124738347/70bfefeb-0e0c-4505-920f-fc378142dc01)
+![ESCAPE-FROM-TARKOV SCREEN 2](https://github.com/geving111/TEST/assets/124738347/85996ff9-98e5-4a6d-997c-b5e2aca35500)
+![ESCAPE-FROM-TARKOV SCREEN 3](https://github.com/geving111/TEST/assets/124738347/848e03c9-643e-4108-a300-36277e894a09)
+![ESCAPE-FROM-TARKOV SCREEN 4](https://github.com/geving111/TEST/assets/124738347/874848c8-bb96-4798-866d-f9cb8c53bff6)
+![ESCAPE-FROM-TARKOV SCREEN 5](https://github.com/geving111/TEST/assets/124738347/811ac24e-e624-453d-8662-8025d66dd428)
+![ESCAPE-FROM-TARKOV SCREEN 6](https://github.com/geving111/TEST/assets/124738347/25d59b87-b731-4a2d-b997-330cb9f1abdb)
+
 
 
 
