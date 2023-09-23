@@ -9,6 +9,11 @@
 - ᴛʜᴀɴᴋ ʏᴏᴜ!
 
 ### MEDIA 
+![PUBG SCREEN 1](https://github.com/geving111/TEST/assets/124738347/9c9799f7-d985-47e3-88d4-e80e7b1bbedc)
+![PUBG SCREEN 2](https://github.com/geving111/TEST/assets/124738347/28f0c934-b95d-4763-b191-87715c94a303)
+![PUBG SCREEN 3](https://github.com/geving111/TEST/assets/124738347/6ccf4693-e1c4-4544-9e58-6bc322a97352)
+![PUBG SCREEN 4](https://github.com/geving111/TEST/assets/124738347/7c198f8b-20a4-4451-a857-12a2f6527ebd)
+![PUBG SCREEN 5](https://github.com/geving111/TEST/assets/124738347/8e4df6b1-c958-4397-b07d-f98bed6e198f)
 
 
 
