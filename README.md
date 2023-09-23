@@ -9,8 +9,8 @@
 - ᴛʜᴀɴᴋ ʏᴏᴜ!
 
 ### MEDIA 
-![ESCAPE-FROM-TARKOV SCREEN 8](https://github.com/geving111/TEST/assets/124738347/6de20f2f-9e07-43a8-b72d-08bf7e23e409)
-![ESCAPE-FROM-TARKOV SCREEN 7](https://github.com/geving111/TEST/assets/124738347/bd611eac-a65d-42b2-825c-de515766b73e)
+![ESCAPE-FROM-TARKOV SCREEN 7](https://github.com/geving111/TEST/assets/124738347/902af060-029b-4676-abff-f29df543c321)
+![ESCAPE-FROM-TARKOV SCREEN 8](https://github.com/geving111/TEST/assets/124738347/4e780810-7d6e-449a-b0e1-80afaebdc5be)
 ![ESCAPE-FROM-TARKOV SCREEN 1](https://github.com/geving111/TEST/assets/124738347/70bfefeb-0e0c-4505-920f-fc378142dc01)
 ![ESCAPE-FROM-TARKOV SCREEN 2](https://github.com/geving111/TEST/assets/124738347/85996ff9-98e5-4a6d-997c-b5e2aca35500)
 ![ESCAPE-FROM-TARKOV SCREEN 3](https://github.com/geving111/TEST/assets/124738347/848e03c9-643e-4108-a300-36277e894a09)
