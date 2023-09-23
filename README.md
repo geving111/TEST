@@ -9,18 +9,21 @@
 - ᴛʜᴀɴᴋ ʏᴏᴜ!
 
 ### MEDIA 
-![APEX SCREEN 1](https://github.com/geving111/TEST/assets/124738347/914f9636-6602-4f06-b38b-e5015a807e2a)
-![APEX SCREEN 2](https://github.com/geving111/TEST/assets/124738347/157ee34e-4cf0-4ccd-b117-ae2fe73bb973)
-![APEX SCREEN 3](https://github.com/geving111/TEST/assets/124738347/1aa3ad65-6813-46ea-8e2f-42c46fe669a3)
-![APEX SCREEN 4](https://github.com/geving111/TEST/assets/124738347/6f4a7a7c-8634-4ea5-959a-86cd4e4979a2)
+
+
+https://github.com/geving111/TEST/assets/124738347/40587cc7-31b1-42a4-afe5-bc4a200105bb
+![Counter-Strike 2 SCREEN 2  ](https://github.com/geving111/TEST/assets/124738347/76bd50cd-631c-4f44-965b-114bf4fe1146)
+![Counter-Strike 2 SCREEN 1](https://github.com/geving111/TEST/assets/124738347/15d9d7f1-4cdf-46d7-9ae4-807eff4f8061)
+
+
 
 
 
 
 ### sʏsᴛᴇᴍ ʀᴇǫᴜɪʀᴇᴍᴇɴᴛs:
 
-sʏsᴛᴇᴍ: 32, 64 ʙɪᴛ
-ᴡɪɴᴅᴏᴡs: 7, 8, 10, 11 (ᴀʟʟ ʙᴜɪʟᴅs)
+Supported operating systems: Windows 7/8/10/11 (64 Bit) | 2004 - 21H2
+Supported processors: Intel & AMD (64 Bit) 
 
 
 ### ᴀɴᴛɪ-ᴄʜᴇᴀᴛ sᴛᴀᴛᴜs
@@ -33,45 +36,129 @@ sʏsᴛᴇᴍ: 32, 64 ʙɪᴛ
 
 ![coursed](https://github.com/geving111/TEST/assets/124738347/8bcd43ae-b65f-45c1-97ed-b8308f5463c2)
 
-# ᴀɪᴍ
+# VISUALS
 
-- Prediction
-- Fov Radius
-- PSilent
-- RCS
-- Color Fov
+- PLAYERS
+- Name
+- Line
+- Direction
+- Bone
+- Hide Names
+- Hitbox
+- Aimpoint
+- Warning
+- Glow
+- Dormant
+- Weapon
+- Health
+- Chams
+- Box
+
+# LOCAL
+
+- Crosshar
+- Spread
+- Grenade Helper
+- Lag Indicator
+- Thirdperson On Death
+- Fake Model
+- FOV
+- Thirdperson
+- YawIndicator
+- Aim FOV
+
+# FILTER
+
+- Visible Only
+- Firendly
+- Local
+- Damage
+- Hitmarker
+- Gray World
+- No Flash
+- No Smoke
+- Transparent Props
+- Colored Props
+- Colored World
+- Item
+- Chams
+- Tracers
+
+# MISC
+
+- Spectator
+- Rank
+- Radar
+- Bomb Timer
+- Backtrack Chams
+- Sound
+- ESP Distance
+- Max Distance
+- Arrows
+- Radius
+
+# SKINS
+
+- Hands
+- Glove Skin
+- Knife
+- ID 
+
+# COLOR
+
+- The ability to change the color anywhere
+
+# LEGITBOT
+
+- MAIN:
+- Global Settings
+- Auto Fire
+- Aim Mode
 - FOV
 - Smooth
-- HChance
-- Key
-- Bone
+- Autowall
+- Silent
+- Safe Aim
+- Sticky
+- Smoke Check
+- RCS
+- RCS Type
+- FOV
+- Aimtype
 
-# ᴇsᴘ
+# POSITION
 
-- Glow
-- Enable
-- Dist
-- Knockouted
-- Low Health
-- Medium health
-- Hight Health
-- Loot Glow ESP
-- Player ESP
-- Visible Check
-- Dist
-- Box
-- Meters
-- Snaplines
-- Weapon
-- Health bar
-- Shield Bar
+- Priority
+- Switches from head to legs
 
-# ᴍɪsᴄ
 
-- Misc
-- Specator list
-- Teammates
-- Mini-tab menu
-- Trigger Bot
-- Spoofer
-- Safe mode
+# ACCURACY
+
+- Backtrack
+- Ignore Jump
+- Not Aim While Flashed
+- Trigger Mode
+- Trigger Delay
+- Hitchance
+- Min damage
+
+# FACTORS
+
+- Fire Rate
+- Fire Delay
+- Aim Time
+- Aim Distance
+
+# RAGEBOT
+
+# MAIN
+
+- Global Settings
+- Active
+- Aim Mode
+- FOV
+- Aim Step
+
+
+
+<sub>ʟᴀsᴛ ᴜᴘᴅᴀᴛᴇ 18.09.2023</sub>
