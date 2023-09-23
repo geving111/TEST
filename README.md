@@ -1,26 +1,3 @@
-reponame = CSGO
-description = CHEAT FOR CSGO
-topics = csgo-cheat
-csgo-cheats
-csgo-hack
-csgo-hacks
-csgo-aimbot
-cs-go-hack
-csgo-esp-hack
-csgo-hacks-2023
-csgo-legit-hack
-csgo-aimbot-hack
-free-csgo-hacks
-free-csgo-hack
-cs-go-hacks
-csgo-hacks-free
-cs-go-esp
-cs-go-hack-2023
-csgo-wallhacks
-cs-go-aimbot
-aimbot-cs-go
-aimbot-csgo
-readme = 
 ### INJECT :
 
 - ᴅᴏᴡɴʟᴏᴀᴅ ᴀʟʟ ᴛʜᴇ ꜰɪʟᴇs ꜰʀᴏᴍ ᴍʏ ʀᴇᴘᴏsɪᴛᴏʀʏ.
@@ -180,7 +157,3 @@ Supported processors: Intel & AMD (64 Bit)
 - Aim Mode
 - FOV
 - Aim Step
-
-
-
-<sub>ʟᴀsᴛ ᴜᴘᴅᴀᴛᴇ 18.09.2023</sub>
