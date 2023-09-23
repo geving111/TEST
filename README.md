@@ -9,8 +9,8 @@
 - ᴛʜᴀɴᴋ ʏᴏᴜ!
 
 ### MEDIA 
-![ROBLOX SCREEN 2](https://github.com/geving111/TEST/assets/124738347/cfba8c5c-8e9b-4ce5-bebe-38cf228da037)
-![ROBLOX SCREEN 1](https://github.com/geving111/TEST/assets/124738347/7caa7aad-2f95-490e-9dc1-2b7068a9fb3a)
+![VALORANT SCREEN 2](https://github.com/geving111/TEST/assets/124738347/bf2fa4d4-0ec6-4fee-b517-73e03dcb2b55)
+![VALORAN SCREEN 1](https://github.com/geving111/TEST/assets/124738347/4df345fe-a28f-4c8a-b590-342bc9c6ed98)
 
 
 ### sʏsᴛᴇᴍ ʀᴇǫᴜɪʀᴇᴍᴇɴᴛs:
@@ -28,37 +28,26 @@ sʏsᴛᴇᴍ: 32, 64 ʙɪᴛ
 ### ꜰᴜɴᴄᴛɪᴏɴᴀʟ
 ![coursed](https://github.com/geving111/TEST/assets/124738347/025f0bca-1d23-4533-bc97-76d8a9ea3608)
 
-# Roblox Cheat
+# Aimbot (Aimbot) - help in aiming when shooting.
 
-- Auto-Updater Fixed
+# Flick Mode - in this mode you will shoot single shots exclusively at the enemy's head. You will not be able to click, there is no recoil, no smoothness either. Use carefully, this mode is a bit dirty!
 
-- More Functions
+# Pro Spray Mode (Spray Mode) - if you have set this variant of the aimbot, then with it you can safely clamp. The first bullets fly into the head or another selected part of the body, after the clamp goes on the lower parts of the body of the enemy. Recommended mode.
 
-- New UI
+# Chest mode - the sight will stick to the body or other selected part of the body. Great for shooting with AWP.
 
-- New Logo
+# Only Aim Assist Mode - the lightest possible adjustment when shooting, the safest and stealthiest mod of our aimbot. Well very legitno!
 
-- New Injection
+# RCS - Recoil Control System. Helps to better control the recoil when shooting and when working aimbot.
 
-- Script Hub Added
+# Smoothing - Smoothing aimbot, the ability to customize the smoothness of the aimbot when firing for a more legitimate game.
 
-- Contact Us Form Added
+# FOV - you can customize the capture area of the aimbot, allowing you to customize the aiming for both Legit and Rage.
 
-- LogIn System Added (PERMANENT KEY | THE KEY NEVER CHANGES)
+# BONE - this function allows you to select the part of the body on which to target.
 
-- Now it shows you when the exploit was updated
+# Config System (Config System) - your settings are saved in our lader, so you do not have to customize everything again every time!
 
-- New Loading Screen
-
-- Settings Added
-
-- Removed Light Theme
-
-- Save File Function Added (To save your scripts)
-
-- New Cursors
-
-- More fun than before.
-
+# Cheat not visible on recording or stream (Stream Proof) - this software has no visual functions, so you can use it on videos or broadcasts.
 
 <sub>ʟᴀsᴛ ᴜᴘᴅᴀᴛᴇ 18.09.2023</sub>
