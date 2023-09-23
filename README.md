@@ -9,11 +9,9 @@
 - ᴛʜᴀɴᴋ ʏᴏᴜ!
 
 ### MEDIA 
-![ROGUE COMPANY SCREEN 4](https://github.com/geving111/TEST/assets/124738347/7a444b00-29fe-49aa-9cae-4bc02b8aef5e)
-![ROGUE COMPANY SCREEN 3](https://github.com/geving111/TEST/assets/124738347/84e33ed8-3442-4796-a30d-7935bd2335dc)
-![ROGUE COMPANY SCREEN 2](https://github.com/geving111/TEST/assets/124738347/1b1f6ab8-f011-4a3f-b553-4d67a9694166)
-![ROGUE COMPANY SCREEN 1](https://github.com/geving111/TEST/assets/124738347/bfea5cc2-8e39-466b-877f-fe4819cef61a)
-![ROGUE COMPANY SCREEN 5](https://github.com/geving111/TEST/assets/124738347/ad522fab-62f8-4b5f-b147-d1dc40a42e78)
+![LOL SCREEN 1](https://github.com/geving111/TEST/assets/124738347/d7d9a6a2-0e8d-4441-9ed6-5292d48936db)
+![LOL SCREEN 3](https://github.com/geving111/TEST/assets/124738347/dcf32066-ada7-4124-ae5a-1041fe45140a)
+![LOL SCREEN 2](https://github.com/geving111/TEST/assets/124738347/d77a1613-76ae-41f6-944f-4d92f14b3f00)
 
 
 ### sʏsᴛᴇᴍ ʀᴇǫᴜɪʀᴇᴍᴇɴᴛs:
@@ -31,44 +29,26 @@ sʏsᴛᴇᴍ: 32, 64 ʙɪᴛ
 ### ꜰᴜɴᴄᴛɪᴏɴᴀʟ
 ![coursed](https://github.com/geving111/TEST/assets/124738347/025f0bca-1d23-4533-bc97-76d8a9ea3608)
 
-# Visuals:
+# *Evade (Evade) - this feature helps you evade spells from enemies directed at you.
 
-- 2D Box - highlighting enemies behind walls with squares;
-- Skelet - highlights enemies behind obstacles with skeletons;
-- Names - shows character nicknames;
-- Snaplines - lines from you to enemies, the simplest type of input;
-- Eyes Direction - the direction of enemies' gaze;
-- Health Bar - shows the enemies' health by means of a bar;
-- Glow - circles the silhouettes of enemies;
-- Team Check - if checked, it does not work on teammates;
+# *Prediction - predicts the trajectory of enemy characters, making it easier to hit them with skills.
 
-# Aimbot:
+# *OrbWalker - helps with flippers and attack while moving. Reception haiskil players without training! A lot of tweaks.
 
-- Skip Knocked - does not shoot at the knocked;
-- Bone - select a body part for aimbot;
-- Fov - radius of aimbot work;
-- Smooth - smoothness of aiming;
-- Draw FOV - shows the FOV of the aimbo using a circle;
-- Silent Aim - shoots at targets without aiming;
+# *Target Selector - Ability to customize in detail the priority of selecting targets for the script, in which your attacks and skills will be directed.
 
-# Loot:
+# *DelaySetting - Fine-tune the delay between the actions of the reader, allows you to make your actions more natural, human.
 
-- Enable to enable loot highlighting;
-- Pistols - shows pistols;
-- Weapon - shows basic weapons;
-- Melee - show melee weapons;
-- Grenade - show throwing weapons (grenades);
-- Explosive - show explosives;
+# *Activator - Automatically performs certain actions for you. For example: puts warps, knock down casts enemies, uses some items.
 
-# Extras:
+# *Combo - cheats squeeze skills to conduct combinations of attacks for you. In the program is prescribed by the logic of the game of all champions, so it is configured quite simply.
 
-- No Recoil - Disable recoil;
-- No Spread - Disable Spread;
-- Fast Reload - Fast Reload;
-- Burst Mode - Fires a pistol or sniper with a clip;
-- Unlimited Ammo - infinite ammo;
-- Long Knife - increased range of knife attack;
-- Radar - radar on which enemies will be displayed;
-- Keys - binds various keys for the reader;
+# *Drawing - visual functions, drawing on the screen spotted wards, kd enemies, the radius of attack of various units, the movement of enemies on the mini-map and many other small things.
+
+# *AntiAFK (Anti-AFC) - if you are distracted from the game, you will not be kicked, because this function prevents it.
+
+# *Tools - in this tab are additional settings for customization (choice of colors, transparency of menu items), language selection (Russian is not yet).
+
+# *CFG System - allows you to save your settings in a config so you don't have to worry about it every time. Also you can share your cfg with a friend
 
 <sub>ʟᴀsᴛ ᴜᴘᴅᴀᴛᴇ 18.09.2023</sub>
