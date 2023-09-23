@@ -9,127 +9,52 @@
 - ᴛʜᴀɴᴋ ʏᴏᴜ!
 
 ### MEDIA 
-![DAYZ SCREEN 2](https://github.com/geving111/TEST/assets/124738347/f1c0f6ce-1fcd-4ee3-a5f2-3094a119f4d9)
-![DAYZ SCREEN 4](https://github.com/geving111/TEST/assets/124738347/8c9ff036-2da2-4a84-aa5e-6cc684c63484)
-![DAYZ SCREEN 3](https://github.com/geving111/TEST/assets/124738347/31b1ccbd-9fa2-489d-9faa-67989a1471da)
-![DAYZ SCREEN 1](https://github.com/geving111/TEST/assets/124738347/83566634-7c4b-4851-97a8-2461b79dd9e2)
-
-
-
-
+![FORTNITE SCREEN 1](https://github.com/geving111/TEST/assets/124738347/0bd99447-066d-41d1-86f5-48125b666c33)
+![FORTNITE SCREEN 2](https://github.com/geving111/TEST/assets/124738347/5e3e45f4-a83b-4518-9353-473345f17990)
 
 
 
 ### sʏsᴛᴇᴍ ʀᴇǫᴜɪʀᴇᴍᴇɴᴛs:
 
-Supported operating systems: Windows 7/8/10/11 (64 Bit) | 2004 - 21H2
-Supported processors: Intel & AMD (64 Bit) 
+sʏsᴛᴇᴍ: 32, 64 ʙɪᴛ
+ᴡɪɴᴅᴏᴡs: 7, 8, 10, 11 (ᴀʟʟ ʙᴜɪʟᴅs)
 
 
 ### ᴀɴᴛɪ-ᴄʜᴇᴀᴛ sᴛᴀᴛᴜs
-- UNDETECTED
+- ᴇᴀsʏᴀɴᴛɪᴄʜᴇᴀᴛ ᴀɴᴅ ʙᴀᴛᴛʟᴇʏᴇ ᴀɴᴛɪ-ᴄʜᴇᴀᴛ ɢᴀᴍᴇ
 
 ### ɢᴀᴍᴇ ᴠᴇʀsɪᴏɴ
-- ʟᴀᴛᴇsᴛ ᴠᴇʀsɪᴏɴ ꜰᴏʀ ᴘᴄ
+- ʟᴀᴛᴇsᴛ ᴠᴇʀsɪᴏɴ ꜰᴏʀ ᴘᴄ [ᴇᴘɪᴄ ɢᴀᴍᴇs ʟᴀᴜɴᴄʜᴇʀ]
 
 ### ꜰᴜɴᴄᴛɪᴏɴᴀʟ
 
-![coursed](https://github.com/geving111/TEST/assets/124738347/8bcd43ae-b65f-45c1-97ed-b8308f5463c2)
+![b69375_5c6928d5df274c8d8ed4f4c3867c1311_mv2](https://user-images.githubusercontent.com/125276433/218482310-d41ddca1-94f7-4a0c-8413-e439133f180e.gif)
 
-# Aim bot:
+# ᴀɪᴍ
 
-- Aimbot
-- Enable
-- Vector
-- Silent
-- AimKey
-- Bone
-- FOV
-- Distance
-- Draw FOV
-- On Players
-- On Zombies
-- On Animals
-- Team Check
-- Visible Check
+- ᴡᴇᴀᴘᴏɴ ᴄʜᴇᴄᴋ - ᴅɪsᴀʙʟᴇs ᴀɪᴍ ᴅᴜʀɪɴɢ ᴄᴏɴsᴛʀᴜᴄᴛɪᴏɴ ᴏʀ ᴡɪᴛʜ ᴀ ᴘɪᴄᴋᴀxᴇ ɪɴ ʜᴀɴᴅ
+- ᴠɪsɪʙʟᴇ ᴄʜᴇᴄᴋ - ᴄʜᴇᴄᴋ ᴠɪsɪʙɪʟɪᴛʏ
+- ᴀɪᴍ sᴍᴏᴏᴛʜ - sᴍᴏᴏᴛʜɴᴇss
+- ᴅʀᴀᴡꜰᴏᴠ - ᴅʀᴀᴡ ᴛʜᴇ ʀᴀɴɢᴇ ᴏꜰ ᴛʜᴇ ᴀɪᴍ
+- ᴀɪᴍ ꜰᴏᴠ - ʀᴀɴɢᴇ ᴏꜰ ᴀᴄᴛɪᴏɴ
+- ꜰᴏᴠ ᴄᴏʟᴏʀ - ᴛʜᴇ ᴄᴏʟᴏʀ ᴏꜰ ᴛʜᴇ ᴄɪʀᴄʟᴇ ʀᴀᴅɪᴜs
+- ᴄʜᴏᴏsᴇ ᴛᴀʀɢᴇᴛ - ᴛʏᴘᴇ ᴏꜰ ᴛᴀʀɢᴇᴛ sᴇʟᴇᴄᴛɪᴏɴ
 
-# Player ESP:
+# ᴇsᴘ
 
-- Players ESP
-- Boxes
-- Boxes Style
-- Filled
-- Health Bar
-- Inventory
-- Distance
-- Skeleton
-- Nickname
-- Weapon
-- Head
-- Limit Distance
+- ʙᴏx ᴇsᴘ - ʙᴏxᴇs
+- ʙᴏx ᴄᴏʟᴏʀ - ᴄᴏʟᴏʀ ᴏꜰ ʙᴏxᴇs
+- ᴅɪsᴛᴀɴᴄᴇ ᴇsᴘ - ᴅɪsᴛᴀɴᴄᴇ ᴛᴏ ᴇɴᴇᴍʏ
+- ᴅɪsᴛᴀɴᴄᴇ ᴄᴏʟᴏʀ - ᴛᴇxᴛ
+- ᴄᴏʟᴏʀ sɴᴀᴘʟɪɴᴇ ᴇsᴘ - ʟɪɴᴇs ᴛᴏ ᴇɴᴇᴍɪᴇs
+- sɴᴀᴘʟɪɴᴇ ꜰʀᴏᴍ - ʙᴇɢɪɴɴɪɴɢ ᴏꜰ ʟɪɴᴇ
+- sɴᴀᴘʟɪɴᴇ ᴛᴏ - ᴇɴᴅ ᴏꜰ ʟɪɴᴇ
+- sɴᴀᴘʟɪɴᴇ ᴄᴏʟᴏʀ - ʟɪɴᴇ ᴄᴏʟᴏʀ
 
-# World ESP:
+# ᴍɪsᴄ
 
-- Zombie ESP
-- Animals ESP
-- Corpses
-- Cars
-- Towns
-- Skeleton
-- Boxes
-- Distance
-- Limit Distance
-- Names
-
-# Loot ESP:
-
-- Consumables
-- Suppressors
-- Flashlights
-- Explosives
-- Medicines
-- Magazines
-- Car Items
-- Backpack
-- Building
-- Bayonets
-- Clothes
-- Weapons
-- Barrels
-- Optics
-- Stocks
-- Items
-- Drink
-- Food
-- Ammo
-
-# Functional Loot ESP:
-
-- Names
-- Boxes
-- Box Style
-- Filled Boxes
-- Small Font
-- Custom Colors
-- Distance
-- Limit Distance
-- Loot ESP Key
-
-# Misc:
-
-- Corpse Teleport
-- Show Position
-- Disable Grass
-- 3rd Person
-- Always Day
-- No Clip
-- Panic Key
-- FOV Changer
-- Custom Binds for all features
-- Custom Colors for all visuals
-- Battle Mode
-- Multilang
-
-
+- ʟᴏɢɢᴇʀ - ᴄʜᴇᴀᴛ ʟᴏɢs
+- ᴡᴀᴛᴇʀᴍᴀʀᴋ - ᴄʜᴇᴀᴛ ʟᴏɢᴏ
+- ᴏʙs ʙʏᴘᴀss - ʜɪᴅᴇ ᴛʜᴇ ᴄʜᴇᴀᴛ ᴡɪɴᴅᴏᴡ ꜰʀᴏᴍ ᴏʙs
 
 <sub>ʟᴀsᴛ ᴜᴘᴅᴀᴛᴇ 18.09.2023</sub>
