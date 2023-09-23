@@ -10,9 +10,9 @@
 
 ### MEDIA 
 ![DAYZ SCREEN 2](https://github.com/geving111/TEST/assets/124738347/f1c0f6ce-1fcd-4ee3-a5f2-3094a119f4d9)
-![DAYZ SCREEN 1](https://github.com/geving111/TEST/assets/124738347/d3a4044a-888a-403b-a726-8a2f63ba8d9b)
 ![DAYZ SCREEN 4](https://github.com/geving111/TEST/assets/124738347/8c9ff036-2da2-4a84-aa5e-6cc684c63484)
 ![DAYZ SCREEN 3](https://github.com/geving111/TEST/assets/124738347/31b1ccbd-9fa2-489d-9faa-67989a1471da)
+![DAYZ SCREEN 1](https://github.com/geving111/TEST/assets/124738347/83566634-7c4b-4851-97a8-2461b79dd9e2)
 
 
 
