@@ -9,8 +9,8 @@
 - ᴛʜᴀɴᴋ ʏᴏᴜ!
 
 ### MEDIA 
-![DOTA 2 SCREEN 1](https://github.com/geving111/TEST/assets/124738347/2fa2ffcd-3b00-472c-924b-401746effdbb)
 ![DOTA 2 SCREEN 2](https://github.com/geving111/TEST/assets/124738347/30a35707-30a4-46ce-b1e8-978d58c98fcb)
+![DOTA 2 SCREEN 1](https://github.com/geving111/TEST/assets/124738347/b3d57ca5-be6f-406b-adf0-a90153ded29e)
 
 
 ### sʏsᴛᴇᴍ ʀᴇǫᴜɪʀᴇᴍᴇɴᴛs:
