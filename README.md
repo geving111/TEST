@@ -9,9 +9,10 @@
 - ᴛʜᴀɴᴋ ʏᴏᴜ!
 
 ### MEDIA 
-![CS-GO GIF](https://github.com/geving111/TEST/assets/124738347/27215360-720c-4750-a9e7-6459dd54f187)
-![CS-GO SCREEN 1](https://github.com/geving111/TEST/assets/124738347/9f6feacf-7add-4ba0-b393-87b901cce675)
-![CS-GO SCREEN 2](https://github.com/geving111/TEST/assets/124738347/b2f822b1-b09e-474e-80e2-7e94ef1d6899)
+![DAYZ SCREEN 2](https://github.com/geving111/TEST/assets/124738347/f1c0f6ce-1fcd-4ee3-a5f2-3094a119f4d9)
+![DAYZ SCREEN 1](https://github.com/geving111/TEST/assets/124738347/d3a4044a-888a-403b-a726-8a2f63ba8d9b)
+![DAYZ SCREEN 4](https://github.com/geving111/TEST/assets/124738347/8c9ff036-2da2-4a84-aa5e-6cc684c63484)
+![DAYZ SCREEN 3](https://github.com/geving111/TEST/assets/124738347/31b1ccbd-9fa2-489d-9faa-67989a1471da)
 
 
 
@@ -35,177 +36,100 @@ Supported processors: Intel & AMD (64 Bit)
 
 ![coursed](https://github.com/geving111/TEST/assets/124738347/8bcd43ae-b65f-45c1-97ed-b8308f5463c2)
 
-[Ragebot]
-- Enable
-- Deathmatch
-- Silent
-- FOV
-- Automatic Fire
-- On Key
-- Key
-- AimStep
-- HitScan
-- Resolver
-- Auto Duck
-- Auto Stop
-- Bone
-- Automatic Penetration
-— Min. Damage
-- HitChance
-— HitChance Value
-- Anti-Aim
-- Pitch
-- Yaw
+# Aim bot:
 
-[Legitbot]
-- Enable
-- Deathmatch
-- Automatic Fire
-— Automatic Fire Mode
-— Key
-— HitChance
-— HitChance Value
-- Targetting
-- Smoke check
-- Flash check
-- Jump check
-- Air check
-- Kill delay
-- Zoom only
-[Weapon]
-- Enable aimbot
-- Non sticky
-- Nearest
-— Nearest priority
-- Bone
-- Type
-- RCS
-- BackTrack
-— BackTrack ticks
-- pSilent
-— Hybrid
-— pSilent Bone
-— pSilent FOV
-— pSilent Bullet
-— pSilent Chance
-- Automatic Penetration
-— Min. Damage
-- AutoPistol
-- FOV
-— Distance based FOV
-- Smooth
-- RCS X
-- RCS Y
-- Delay
-- Kill delay
+Aimbot
+Enable
+Vector
+Silent
+AimKey
+Bone
+FOV
+Distance
+Draw FOV
+On Players
+On Zombies
+On Animals
+Team Check
+Visible Check
 
-[Triggerbot]
-- Enable
-- Smoke check
-- Flash check
-- Zoom only
-- Key
-- Mode
-- HitGroup
-- Automatic Fire
-- Deathmatch
-- Delay
-- Min. Damage
-- HitChance Value
+# Player ESP:
 
-[Visuals]
-- Enable
-- Enemy only
-- Visible only
-- Fade
-- Box
-- Name
-- Health
-- Bone
-- Weapon
-- Ammo
-- Skeleton
-- BackTrack
-- SoundESP
-— Draw style
-— Range
-- Chams
-— Type
-— Visible only
-- Misc
-— State
-— Draw FOV
-— Spectator List
-— Crosshair
-— Anti-Screen
-— HitInfo
-—— Time
-— Recoil
-— HitSound
-— Remove Scope
-— Draw Angles
-- World
-— Bomb
-— Weapons
-— Grenades
+Players ESP
+Boxes
+Boxes Style
+Filled
+Health Bar
+Inventory
+Distance
+Skeleton
+Nickname
+Weapon
+Head
+Limit Distance
 
-[Radar]
-- Enable
-- Alpha
-- Draw size
-- Radius
-- Visible only
-- Enemy only
-- Type
-- Draw style
+# World ESP:
 
-[Skins]
-- SkinChanger
-— Enable
-— Type
-— Skin/SkinID
-— Wear
-— Seed
-— StatTrack
-—— Live StatTrack
-— Quality
-— CT Knife
-— T Knife
-— CT Glove
-— T Glove
-- Profile Changer
-— XP
-— Level
-— Wins
-— Rank
-— Friendly
-— Leader
-— Teacher
-— Set VAC Banned
-— Ban Type
-—— Ban Time
+Zombie ESP
+Animals ESP
+Corpses
+Cars
+Towns
+Skeleton
+Boxes
+Distance
+Limit Distance
+Names
 
-[Misc]
-- BunnyHop
-- AutoStrafe
-- FakeLag
-— FakeLag Amount
-- Fast Duck
-- AutoAccept
-- Rank Reveal
-- Watermark
-- FOV Changer
-— Value
-- View Model Changer
-— Value
-- ThirdPerson
-— Key
-- No Visual Recoil
-- Aimbot panic key
-- Visuals panic key
-- ClanTag
-— Custom
-- ChatSpam
-- NameSpam
-- Configs
-- Theme
+# Loot ESP:
+
+Consumables
+Suppressors
+Flashlights
+Explosives
+Medicines
+Magazines
+Car Items
+Backpack
+Building
+Bayonets
+Clothes
+Weapons
+Barrels
+Optics
+Stocks
+Items
+Drink
+Food
+Ammo
+
+# Functional Loot ESP:
+
+Names
+Boxes
+Box Style
+Filled Boxes
+Small Font
+Custom Colors
+Distance
+Limit Distance
+Loot ESP Key
+
+# Misc:
+
+Corpse Teleport
+Show Position
+Disable Grass
+3rd Person
+Always Day
+No Clip
+Panic Key
+FOV Changer
+Custom Binds for all features
+Custom Colors for all visuals
+Battle Mode
+Multilang
+
+
+
+<sub>ʟᴀsᴛ ᴜᴘᴅᴀᴛᴇ 18.09.2023</sub>
