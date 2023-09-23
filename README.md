@@ -9,8 +9,11 @@
 - ᴛʜᴀɴᴋ ʏᴏᴜ!
 
 ### MEDIA 
-![DOTA 2 SCREEN 2](https://github.com/geving111/TEST/assets/124738347/30a35707-30a4-46ce-b1e8-978d58c98fcb)
-![DOTA 2 SCREEN 1](https://github.com/geving111/TEST/assets/124738347/b3d57ca5-be6f-406b-adf0-a90153ded29e)
+![ROGUE COMPANY SCREEN 3](https://github.com/geving111/TEST/assets/124738347/84e33ed8-3442-4796-a30d-7935bd2335dc)
+![ROGUE COMPANY SCREEN 2](https://github.com/geving111/TEST/assets/124738347/1b1f6ab8-f011-4a3f-b553-4d67a9694166)
+![ROGUE COMPANY SCREEN 1](https://github.com/geving111/TEST/assets/124738347/bfea5cc2-8e39-466b-877f-fe4819cef61a)
+![ROGUE COMPANY SCREEN 5](https://github.com/geving111/TEST/assets/124738347/ad522fab-62f8-4b5f-b147-d1dc40a42e78)
+![ROGUE COMPANY SCREEN 4](https://github.com/geving111/TEST/assets/124738347/f8fadde2-962c-4b40-8e45-f40388ee2412)
 
 
 ### sʏsᴛᴇᴍ ʀᴇǫᴜɪʀᴇᴍᴇɴᴛs:
@@ -28,31 +31,44 @@ sʏsᴛᴇᴍ: 32, 64 ʙɪᴛ
 ### ꜰᴜɴᴄᴛɪᴏɴᴀʟ
 ![coursed](https://github.com/geving111/TEST/assets/124738347/025f0bca-1d23-4533-bc97-76d8a9ea3608)
 
-# OBS bypass for streamers We are the first in the world who wrote a full-fledged recording bypass. Now you can record videos and stream on any platform without any problems without fear of getting blocked.
+# Visuals:
 
+- 2D Box - highlighting enemies behind walls with squares;
+- Skelet - highlights enemies behind obstacles with skeletons;
+- Names - shows character nicknames;
+- Snaplines - lines from you to enemies, the simplest type of input;
+- Eyes Direction - the direction of enemies' gaze;
+- Health Bar - shows the enemies' health by means of a bar;
+- Glow - circles the silhouettes of enemies;
+- Team Check - if checked, it does not work on teammates;
 
-# Inventory Changer The script opens absolutely all items and skins in the game.
+# Aimbot:
 
-# Pick analyzer This script shows all profiles of your allies and opponents. On whom they have played the last 8 matches, their winrate, their signatures and their usefulness in matches. The script also automatically determines which heroes are best to ban at the selection stage.
+- Skip Knocked - does not shoot at the knocked;
+- Bone - select a body part for aimbot;
+- Fov - radius of aimbot work;
+- Smooth - smoothness of aiming;
+- Draw FOV - shows the FOV of the aimbo using a circle;
+- Silent Aim - shoots at targets without aiming;
 
-# AutoDodge This script performs the function of "Dodge" from enemy abilities and/or items.
+# Loot:
 
-# Auto Last Hit This script automatically kills creeps on the line.
+- Enable to enable loot highlighting;
+- Pistols - shows pistols;
+- Weapon - shows basic weapons;
+- Melee - show melee weapons;
+- Grenade - show throwing weapons (grenades);
+- Explosive - show explosives;
 
-# Visible by Enemy This script shows whether your enemies can see you and your allies on the map.
+# Extras:
 
-# Show Hidden Spells This script displays all sorts of hidden abilities, such as Sunstrike Invoker'a or IceBlast Ancient Apparition'a.
-
-# Teleport ESP This script shows teleports of all enemies on the minicart.
-
-# Maphack(Beta) This script displays icons of enemy characters in the fog of war when they use abilities.
-
-# Jungle MapHack This script displays places where enemy characters are farming on the minicart.
-
-# Ability Alerts (Minimap) This script allows you to see the abilities of enemy heroes and item effects on the minicart.
-
-# Hit &Run This script allows you to chase and hit the enemy at the same time, it is located in the "Player" section.
-
-# Jungle AFK Bot This script automatically farms l
+- No Recoil - Disable recoil;
+- No Spread - Disable Spread;
+- Fast Reload - Fast Reload;
+- Burst Mode - Fires a pistol or sniper with a clip;
+- Unlimited Ammo - infinite ammo;
+- Long Knife - increased range of knife attack;
+- Radar - radar on which enemies will be displayed;
+- Keys - binds various keys for the reader;
 
 <sub>ʟᴀsᴛ ᴜᴘᴅᴀᴛᴇ 18.09.2023</sub>
