@@ -11,12 +11,13 @@
 ### MEDIA 
 ![ESCAPE-FROM-TARKOV SCREEN 7](https://github.com/geving111/TEST/assets/124738347/902af060-029b-4676-abff-f29df543c321)
 ![ESCAPE-FROM-TARKOV SCREEN 8](https://github.com/geving111/TEST/assets/124738347/4e780810-7d6e-449a-b0e1-80afaebdc5be)
+![ESCAPE-FROM-TARKOV SCREEN 6](https://github.com/geving111/TEST/assets/124738347/5280b555-4e7f-4ef8-9ed9-5263cdd89a68)
 ![ESCAPE-FROM-TARKOV SCREEN 1](https://github.com/geving111/TEST/assets/124738347/70bfefeb-0e0c-4505-920f-fc378142dc01)
 ![ESCAPE-FROM-TARKOV SCREEN 2](https://github.com/geving111/TEST/assets/124738347/85996ff9-98e5-4a6d-997c-b5e2aca35500)
 ![ESCAPE-FROM-TARKOV SCREEN 3](https://github.com/geving111/TEST/assets/124738347/848e03c9-643e-4108-a300-36277e894a09)
 ![ESCAPE-FROM-TARKOV SCREEN 4](https://github.com/geving111/TEST/assets/124738347/874848c8-bb96-4798-866d-f9cb8c53bff6)
 ![ESCAPE-FROM-TARKOV SCREEN 5](https://github.com/geving111/TEST/assets/124738347/811ac24e-e624-453d-8662-8025d66dd428)
-![ESCAPE-FROM-TARKOV SCREEN 6](https://github.com/geving111/TEST/assets/124738347/25d59b87-b731-4a2d-b997-330cb9f1abdb)
+
 
 
 
