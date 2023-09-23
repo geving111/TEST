@@ -11,11 +11,13 @@
 ### MEDIA 
 
 
-https://imgur.com/a/ZCUjOcb
+
 ![Counter-Strike 2 SCREEN 2  ](https://github.com/geving111/TEST/assets/124738347/76bd50cd-631c-4f44-965b-114bf4fe1146)
 ![Counter-Strike 2 SCREEN 1](https://github.com/geving111/TEST/assets/124738347/15d9d7f1-4cdf-46d7-9ae4-807eff4f8061)
 
+### VIDEO
 
+https://imgur.com/a/ZCUjOcb
 
 
 
