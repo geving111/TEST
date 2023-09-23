@@ -9,8 +9,10 @@
 - ᴛʜᴀɴᴋ ʏᴏᴜ!
 
 ### MEDIA 
-![VALORANT SCREEN 2](https://github.com/geving111/TEST/assets/124738347/bf2fa4d4-0ec6-4fee-b517-73e03dcb2b55)
-![VALORAN SCREEN 1](https://github.com/geving111/TEST/assets/124738347/4df345fe-a28f-4c8a-b590-342bc9c6ed98)
+![WARZONE 2 SCREEN 2](https://github.com/geving111/TEST/assets/124738347/06be3588-7684-45bd-afe0-3c327cca72c5)
+![WARZONE 2 SCREEN 1](https://github.com/geving111/TEST/assets/124738347/04120ef1-5da2-47bb-9c9d-f03826980f34)
+![WARZONE 2 SCREEN 4](https://github.com/geving111/TEST/assets/124738347/9672428a-40e8-43c4-ab7b-4dc5ac31b251)
+![WARZONE 2 SCREEN 3](https://github.com/geving111/TEST/assets/124738347/a630f8b1-7a18-4519-9bec-f6d97fb81ae8)
 
 
 ### sʏsᴛᴇᴍ ʀᴇǫᴜɪʀᴇᴍᴇɴᴛs:
@@ -28,26 +30,48 @@ sʏsᴛᴇᴍ: 32, 64 ʙɪᴛ
 ### ꜰᴜɴᴄᴛɪᴏɴᴀʟ
 ![coursed](https://github.com/geving111/TEST/assets/124738347/025f0bca-1d23-4533-bc97-76d8a9ea3608)
 
-# Aimbot (Aimbot) - help in aiming when shooting.
+AIMBOT
+[ + ] Enable
+[ + ] Aim at Shoot
+[ + ] Aim at Scope
+[ + ] Visbile only
+[ + ] Two types of aimbot inpuT
+[ + ] Controllable speed
+[ + ] Recoil compensation
+[ + ] Draw FOV
+[ + ] Gamepad Support
+[ + ] Prediction
+[ + ] Setupable FOV
+[ + ] Ignore Knocked Targets
+[ + ] Target Switch Delay
+[ + ] Absolutely unique hitbox system
+[ + ] Two aim keys
 
-# Flick Mode - in this mode you will shoot single shots exclusively at the enemy's head. You will not be able to click, there is no recoil, no smoothness either. Use carefully, this mode is a bit dirty!
+VISUAL
+[ + ] Enable
+[ + ] Enemy only
+[ + ] Box
+[ + ] OOF indicators (out of view)
+[ + ] Health
+[ + ] Shield
+[ + ] Skeleton
+[ + ] Skeleton Thickness
+[ + ] Glow
+[ + ] Visibility check
+[ + ] Distance
+[ + ] Player Info
 
-# Pro Spray Mode (Spray Mode) - if you have set this variant of the aimbot, then with it you can safely clamp. The first bullets fly into the head or another selected part of the body, after the clamp goes on the lower parts of the body of the enemy. Recommended mode.
+ITEM ESP
+[ + ] Enable
+[ + ] Distance
+[ + ] Categories
+[ + ] Customization
+[ + ] Keybind
 
-# Chest mode - the sight will stick to the body or other selected part of the body. Great for shooting with AWP.
 
-# Only Aim Assist Mode - the lightest possible adjustment when shooting, the safest and stealthiest mod of our aimbot. Well very legitno!
-
-# RCS - Recoil Control System. Helps to better control the recoil when shooting and when working aimbot.
-
-# Smoothing - Smoothing aimbot, the ability to customize the smoothness of the aimbot when firing for a more legitimate game.
-
-# FOV - you can customize the capture area of the aimbot, allowing you to customize the aiming for both Legit and Rage.
-
-# BONE - this function allows you to select the part of the body on which to target.
-
-# Config System (Config System) - your settings are saved in our lader, so you do not have to customize everything again every time!
-
-# Cheat not visible on recording or stream (Stream Proof) - this software has no visual functions, so you can use it on videos or broadcasts.
+MISC
+[ + ] Unlocker
+[ + ] Custom Clantag
+[ + ] Distance Unit
 
 <sub>ʟᴀsᴛ ᴜᴘᴅᴀᴛᴇ 18.09.2023</sub>
