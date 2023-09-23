@@ -1,3 +1,26 @@
+reponame = CSGO
+description = CHEAT FOR CSGO
+topics = csgo-cheat
+csgo-cheats
+csgo-hack
+csgo-hacks
+csgo-aimbot
+cs-go-hack
+csgo-esp-hack
+csgo-hacks-2023
+csgo-legit-hack
+csgo-aimbot-hack
+free-csgo-hacks
+free-csgo-hack
+cs-go-hacks
+csgo-hacks-free
+cs-go-esp
+cs-go-hack-2023
+csgo-wallhacks
+cs-go-aimbot
+aimbot-cs-go
+aimbot-csgo
+readme = 
 ### INJECT :
 
 - ᴅᴏᴡɴʟᴏᴀᴅ ᴀʟʟ ᴛʜᴇ ꜰɪʟᴇs ꜰʀᴏᴍ ᴍʏ ʀᴇᴘᴏsɪᴛᴏʀʏ.
@@ -9,14 +32,9 @@
 - ᴛʜᴀɴᴋ ʏᴏᴜ!
 
 ### MEDIA 
-![ESCAPE-FROM-TARKOV SCREEN 7](https://github.com/geving111/TEST/assets/124738347/902af060-029b-4676-abff-f29df543c321)
-![ESCAPE-FROM-TARKOV SCREEN 8](https://github.com/geving111/TEST/assets/124738347/4e780810-7d6e-449a-b0e1-80afaebdc5be)
-![ESCAPE-FROM-TARKOV SCREEN 6](https://github.com/geving111/TEST/assets/124738347/5280b555-4e7f-4ef8-9ed9-5263cdd89a68)
-![ESCAPE-FROM-TARKOV SCREEN 1](https://github.com/geving111/TEST/assets/124738347/70bfefeb-0e0c-4505-920f-fc378142dc01)
-![ESCAPE-FROM-TARKOV SCREEN 2](https://github.com/geving111/TEST/assets/124738347/85996ff9-98e5-4a6d-997c-b5e2aca35500)
-![ESCAPE-FROM-TARKOV SCREEN 3](https://github.com/geving111/TEST/assets/124738347/848e03c9-643e-4108-a300-36277e894a09)
-![ESCAPE-FROM-TARKOV SCREEN 4](https://github.com/geving111/TEST/assets/124738347/874848c8-bb96-4798-866d-f9cb8c53bff6)
-![ESCAPE-FROM-TARKOV SCREEN 5](https://github.com/geving111/TEST/assets/124738347/811ac24e-e624-453d-8662-8025d66dd428)
+![CS-GO GIF](https://github.com/geving111/TEST/assets/124738347/27215360-720c-4750-a9e7-6459dd54f187)
+![CS-GO SCREEN 1](https://github.com/geving111/TEST/assets/124738347/9f6feacf-7add-4ba0-b393-87b901cce675)
+![CS-GO SCREEN 2](https://github.com/geving111/TEST/assets/124738347/b2f822b1-b09e-474e-80e2-7e94ef1d6899)
 
 
 
@@ -40,49 +58,128 @@ Supported processors: Intel & AMD (64 Bit)
 
 ![coursed](https://github.com/geving111/TEST/assets/124738347/8bcd43ae-b65f-45c1-97ed-b8308f5463c2)
 
-# AIMBOT
+# VISUALS
 
-- Silent Aimbot
-- Vector Aimbot
-- Prediction
-- Humanized Smoothing
-- Randomization Settings
-- Customizable FOV
-- Bone Selection
-- Different Aim Keys
+- PLAYERS
+- Name
+- Line
+- Direction
+- Bone
+- Hide Names
+- Hitbox
+- Aimpoint
+- Warning
+- Glow
+- Dormant
+- Weapon
+- Health
+- Chams
+- Box
 
-# VISUAL
+# LOCAL
 
-- Scavs Raiders PMC Player Scavs
-- Bone Esp
-- Friend system
-- Name Esp
-- Player Weapons
-- Health Bar
-- Distance
-- Item Esp
-- Loot Filter
-- Custom Loot Filter
-- Grenade Esp
-- Ammo Counter
-- Extract Esp
-- Crosshair Esp
-- Display KD
-- Loadout Value
-- Display Loadout
+- Crosshar
+- Spread
+- Grenade Helper
+- Lag Indicator
+- Thirdperson On Death
+- Fake Model
+- FOV
+- Thirdperson
+- YawIndicator
+- Aim FOV
+
+# FILTER
+
+- Visible Only
+- Firendly
+- Local
+- Damage
+- Hitmarker
+- Gray World
+- No Flash
+- No Smoke
+- Transparent Props
+- Colored Props
+- Colored World
+- Item
+- Chams
+- Tracers
 
 # MISC
 
-- No Recoil
-- No Sway
-- Instant ADS
-- Unlimited Stamina
-- Air Walk
-- Thermal Vision
-- Night Vision
--Loot Through Walls
-- Moon Jump
-- No Visor
+- Spectator
+- Rank
+- Radar
+- Bomb Timer
+- Backtrack Chams
+- Sound
+- ESP Distance
+- Max Distance
+- Arrows
+- Radius
+
+# SKINS
+
+- Hands
+- Glove Skin
+- Knife
+- ID 
+
+# COLOR
+
+- The ability to change the color anywhere
+
+# LEGITBOT
+
+- MAIN:
+- Global Settings
+- Auto Fire
+- Aim Mode
+- FOV
+- Smooth
+- Autowall
+- Silent
+- Safe Aim
+- Sticky
+- Smoke Check
+- RCS
+- RCS Type
+- FOV
+- Aimtype
+
+# POSITION
+
+- Priority
+- Switches from head to legs
+
+
+# ACCURACY
+
+- Backtrack
+- Ignore Jump
+- Not Aim While Flashed
+- Trigger Mode
+- Trigger Delay
+- Hitchance
+- Min damage
+
+# FACTORS
+
+- Fire Rate
+- Fire Delay
+- Aim Time
+- Aim Distance
+
+# RAGEBOT
+
+# MAIN
+
+- Global Settings
+- Active
+- Aim Mode
+- FOV
+- Aim Step
 
 
 
