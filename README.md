@@ -31,8 +31,7 @@ sʏsᴛᴇᴍ: 32, 64 ʙɪᴛ
 
 ### ꜰᴜɴᴄᴛɪᴏɴᴀʟ
 
-![coursed](https://github.com/geving111/TEST/assets/124738347/c0e44f0a-44a2-4712-bf5d-42da3ed2de66)
-
+![coursed](https://github.com/geving111/TEST/assets/124738347/8bcd43ae-b65f-45c1-97ed-b8308f5463c2)
 
 # ᴀɪᴍ
 
