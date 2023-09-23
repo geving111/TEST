@@ -9,12 +9,6 @@
 - ᴛʜᴀɴᴋ ʏᴏᴜ!
 
 ### MEDIA 
-![FIVEM JS EXECUTOR SCREEN 1](https://github.com/geving111/TEST/assets/124738347/56d997b8-b098-4d50-b6c3-d1169a415ac0)
-![FIVEM JS EXECUTOR SCREEN 2](https://github.com/geving111/TEST/assets/124738347/4150e16c-2aae-4505-9f8b-d0be2070ccf9)
-![FIVEM JS EXECUTOR SCREEN 3](https://github.com/geving111/TEST/assets/124738347/1d844039-c025-464f-9e76-fa206adbc12f)
-![FIVEM JS EXECUTOR SCREEN 4](https://github.com/geving111/TEST/assets/124738347/033319eb-1603-4a81-b3d6-eb60d19f75a5)
-
-
 
 
 
@@ -25,85 +19,101 @@ sʏsᴛᴇᴍ: 32, 64 ʙɪᴛ
 
 
 ### ᴀɴᴛɪ-ᴄʜᴇᴀᴛ sᴛᴀᴛᴜs
-- UNDETECTED
+- ᴇᴀsʏᴀɴᴛɪᴄʜᴇᴀᴛ ᴀɴᴅ ʙᴀᴛᴛʟᴇʏᴇ ᴀɴᴛɪ-ᴄʜᴇᴀᴛ ɢᴀᴍᴇ
 
 ### ɢᴀᴍᴇ ᴠᴇʀsɪᴏɴ
-- ʟᴀᴛᴇsᴛ ᴠᴇʀsɪᴏɴ ꜰᴏʀ ᴘᴄ
+- ʟᴀᴛᴇsᴛ ᴠᴇʀsɪᴏɴ ꜰᴏʀ ᴘᴄ [ᴇᴘɪᴄ ɢᴀᴍᴇs ʟᴀᴜɴᴄʜᴇʀ]
 
 ### ꜰᴜɴᴄᴛɪᴏɴᴀʟ
+![coursed](https://github.com/geving111/TEST/assets/124738347/025f0bca-1d23-4533-bc97-76d8a9ea3608)
 
-![coursed](https://github.com/geving111/TEST/assets/124738347/8bcd43ae-b65f-45c1-97ed-b8308f5463c2)
 
-# [Visuals]
 
-# Players & Peds
+# Players
 
+- Only visible
+- Friends
+- Name
+- Team
+- Line
 - Health
-- Box
-- Box Type
-- Name
-- Distance
-- Health Text
-- Weapon
-- Vehicle Name
+- Box 2D
 - Skeleton
-
-# Vehicles
-
-- Box
-- Box Type
-- Name
 - Distance
-- Show Local Car
-- Engine Health
-- Body Health
-- Tank Health
-- Door Lock Status
+- Spectator count
+- Size line skeleton:
+- Skeleton draw distance:
+- Backlight distance:
 
-# Pickups
+# Loot
 
-- Box
-- Box Type
-- Name
+- Airdrops
+- Corpses
+- Vehicles
+- Weapons:
+- Main
+- Handgun
+- Melee
+- Throwable
+- Ammunition
+- Attachments
+- Equipments
+- Headgear
+- Vest
+- Backpack
+- Use:
+- Heal
+- Boost
+- Fuel
+- Gadget
+- Backlight loot distance
+
+# Aim
+
+- Enable aimbot
+- No sway
+- No recoil
+- Do not aim at friends
+- Do not aim at knocked players
+- Visibility check
+- Aim priority:
 - Distance
-- Weapon
-- Ammo
-- Other
-
-# [Visuals / object builder]
-
-- Fully featured objects builder. You can make your own esp based on item names hashes. Usable for events in Role-Player process.
-
-# [Aimbot]
-
-- Nearest Bone
-- Ignore In Vehicle
-- Smooth
-- FOV
-- Aim Bone
-- Legit & Rage Silent Aimbot (Works on FiveM and on some RageMP servers)
-
-# [Weapon]
-
-- No Recoil
-- No Spread
-
-# [Misc]
-
 - Crosshair
-- Draw Target Information
-- Draw FPS
-- Health Modifications (Heal & Fast Suicide)
-- FOV Changer
-- Noclip
-- Perfect Drive
-- Clear Ped Tasks
-- Green Zone Bypass
-- Super Punch
+- Control radius:
+- Draw fov circle
+- Fov:
+- Distance:
+- Enable prediction
+- Draw aim prediction (Big frame delay
+- Bones selection:
+- Head
+- Neck
+- Left elbow
+- Right elbow
+- Body
+- Pelvis
+- Left knee
+- Right knee
+- Bone change time:
+- Key selection
 
-#[RageMP specific functions]
+# Colors
 
-- Click Warp (Teleport by mouse coords)
-- Local Time Changer
+- Visible players color
+- Invisible players color
+- My team players color
+- Target player color
+- Knoked players color
+- AI players color
+- Airdrops color
+- Corpses color
+- Vehicles color
+- Weapons color
+- Ammunition colorAttachments color
+- Equipments color
+- Use color
+- Setting
+- Key to disable loot:
+- Open menu key:
 
 <sub>ʟᴀsᴛ ᴜᴘᴅᴀᴛᴇ 18.09.2023</sub>
