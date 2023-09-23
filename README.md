@@ -38,97 +38,97 @@ Supported processors: Intel & AMD (64 Bit)
 
 # Aim bot:
 
-Aimbot
-Enable
-Vector
-Silent
-AimKey
-Bone
-FOV
-Distance
-Draw FOV
-On Players
-On Zombies
-On Animals
-Team Check
-Visible Check
+-Aimbot
+-Enable
+-Vector
+-Silent
+-AimKey
+-Bone
+-FOV
+-Distance
+-Draw FOV
+-On Players
+-On Zombies
+-On Animals
+-Team Check
+-Visible Check
 
 # Player ESP:
 
-Players ESP
-Boxes
-Boxes Style
-Filled
-Health Bar
-Inventory
-Distance
-Skeleton
-Nickname
-Weapon
-Head
-Limit Distance
+-Players ESP
+-Boxes
+-Boxes Style
+-Filled
+-Health Bar
+-Inventory
+-Distance
+-Skeleton
+-Nickname
+-Weapon
+-Head
+-Limit Distance
 
 # World ESP:
 
-Zombie ESP
-Animals ESP
-Corpses
-Cars
-Towns
-Skeleton
-Boxes
-Distance
-Limit Distance
-Names
+-Zombie ESP
+-Animals ESP
+-Corpses
+-Cars
+-Towns
+-Skeleton
+-Boxes
+-Distance
+-Limit Distance
+-Names
 
 # Loot ESP:
 
-Consumables
-Suppressors
-Flashlights
-Explosives
-Medicines
-Magazines
-Car Items
-Backpack
-Building
-Bayonets
-Clothes
-Weapons
-Barrels
-Optics
-Stocks
-Items
-Drink
-Food
-Ammo
+-Consumables
+-Suppressors
+-Flashlights
+-Explosives
+-Medicines
+-Magazines
+-Car Items
+-Backpack
+-Building
+-Bayonets
+-Clothes
+-Weapons
+-Barrels
+-Optics
+-Stocks
+-Items
+-Drink
+-Food
+-Ammo
 
 # Functional Loot ESP:
 
-Names
-Boxes
-Box Style
-Filled Boxes
-Small Font
-Custom Colors
-Distance
-Limit Distance
-Loot ESP Key
+-Names
+-Boxes
+-Box Style
+-Filled Boxes
+-Small Font
+-Custom Colors
+-Distance
+-Limit Distance
+-Loot ESP Key
 
 # Misc:
 
-Corpse Teleport
-Show Position
-Disable Grass
-3rd Person
-Always Day
-No Clip
-Panic Key
-FOV Changer
-Custom Binds for all features
-Custom Colors for all visuals
-Battle Mode
-Multilang
+-Corpse Teleport
+-Show Position
+-Disable Grass
+-3rd Person
+-Always Day
+-No Clip
+-Panic Key
+-FOV Changer
+-Custom Binds for all features
+-Custom Colors for all visuals
+-Battle Mode
+-Multilang
 
 
 
