@@ -32,13 +32,13 @@ sʏsᴛᴇᴍ: 32, 64 ʙɪᴛ
 ![coursed](https://github.com/geving111/TEST/assets/124738347/025f0bca-1d23-4533-bc97-76d8a9ea3608)
 
 
-- Wallhack
-- Chams
-- Enemies
-- Local Chams
-- Reliable ByPass
-- Optimization
-- Spoofer
+# - Wallhack
+# - Chams
+# - Enemies
+# - Local Chams
+# - Reliable ByPass
+# - Optimization
+# - Spoofer
 
 <sub>ʟᴀsᴛ ᴜᴘᴅᴀᴛᴇ 18.09.2023</sub>
 
