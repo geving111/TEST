@@ -27,8 +27,9 @@ sʏsᴛᴇᴍ: 32, 64 ʙɪᴛ
 - ʟᴀᴛᴇsᴛ ᴠᴇʀsɪᴏɴ ꜰᴏʀ ᴘᴄ [ᴇᴘɪᴄ ɢᴀᴍᴇs ʟᴀᴜɴᴄʜᴇʀ]
 
 ### ꜰᴜɴᴄᴛɪᴏɴᴀʟ
+![coursed](https://github.com/geving111/TEST/assets/124738347/025f0bca-1d23-4533-bc97-76d8a9ea3608)
 
-![b69375_5c6928d5df274c8d8ed4f4c3867c1311_mv2](https://user-images.githubusercontent.com/125276433/218482310-d41ddca1-94f7-4a0c-8413-e439133f180e.gif)
+
 
 # ᴀɪᴍ
 
